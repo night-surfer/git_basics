@@ -1,7 +1,7 @@
 # Git Basics - important steps for git workflow
 
 
-          ####Adding a Repository
+          #### Adding a Repository
 
 #Make a folder in Cloud9: mkdir folder_name
 
@@ -9,7 +9,7 @@
 
 #Create a README.md, LICENSE.md, & .gitignore 
 
-          ####Making changes to files or programs
+          #### Making changes to files or programs
 
 #Open and make changes to project files in the text editor
 
