@@ -14,5 +14,6 @@ And if you need to remove a repository that has hidden and/or regular files in i
           use command: rm -rf repository-name
 
 if you want to add a branch, use command: git branch name_of_new_branch 
+to switch between branches, use command git checkout name_of_branch_you_want_to_switch_to 
 if you want to delete a branch, use command: git branch -d name_of_branch 
           (hint: you cant be in that branch when trying to delete it)
