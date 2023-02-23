@@ -23,7 +23,7 @@
 
 #review previous changes with git log (press q when ready to exit git log)
 
-#You can see the specific changes made to a file before commiting it by using: git diff
+#You can see the specific changes made to a file before committing it by using: git diff
 
 
           #### Removing a repository
