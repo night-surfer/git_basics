@@ -1,13 +1,13 @@
 # Git Basics - important steps for git workflow
 
 
- ###### Steps for commiting changes to files
+####Steps for commiting changes to files
 
- # Initialize (or create) a new repository with git init
+#Initialize (or create) a new repository with git init
 
- # Create changes to project files in the text editor
+#Create changes to project files in the text editor
 
- # check status of those files withthe command: git status
+#check status of those files withthe command: git status
 
 #stage changes for commits by command: git add file_name 
           or with a (.) to add all the file changes
@@ -20,7 +20,7 @@
 #You can see the specific changes made to a file before commiting it by using: git diff
 
 
-###### Removing a repository
+#### Removing a repository
 
 #And if you need to remove a repository that has hidden and/or regular files in it, 
           use command: rm -rf repository-name
@@ -36,7 +36,7 @@
           (hint: you cant be in that branch when trying to delete it)
           
           
-##### Push to github 
+#### Push to github 
 
 #Go to github.com and make new repository there
 
