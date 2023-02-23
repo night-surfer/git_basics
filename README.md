@@ -1,13 +1,13 @@
 # Git Basics - important steps for git workflow
 
 
-#### Steps for commiting changes to files
+ ###### Steps for commiting changes to files
 
-# Initialize (or create) a new repository with git init
+ # Initialize (or create) a new repository with git init
 
-# Create changes to project files in the text editor
+ # Create changes to project files in the text editor
 
-# check status of those files withthe command: git status
+ # check status of those files withthe command: git status
 
 #stage changes for commits by command: git add file_name 
           or with a (.) to add all the file changes
@@ -49,3 +49,7 @@
 #enter: username and PAT token when promted
 
 #then check: git log to see changes. Then check github.com for updates
+
+
+
+adding text here for doing a pull
