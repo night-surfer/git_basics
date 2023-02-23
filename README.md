@@ -8,7 +8,4 @@ commit changes to version history with command: git commit -m "Insert a brief me
 review previous changes with git log (press q when ready to exit git log)
 You can see the specific changes made to a file before commiting by using git diff
 
-and if you need to remove a repository that has hidden and/or regular files in it, use command: rm -rf repository-name
-
-quick test pt1
-quick test pt 2
+And if you need to remove a repository that has hidden and/or regular files in it, use command: rm -rf repository-name
