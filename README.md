@@ -26,7 +26,7 @@
           use command: rm -rf repository-name
 
 
-####### Branches
+#### Branches
 
 #if you want to add a branch, use command: git branch name_of_new_branch 
 
@@ -51,7 +51,7 @@
 #then check: git log to see changes. Then check github.com for updates
 
 
-#### pulling from github.com to local 
+#### Pulling from github.com to local repository 
 
 #use the edit button in on github, then make a note before commiting changes, commit directly to the main branch, and click on commit changes
 
