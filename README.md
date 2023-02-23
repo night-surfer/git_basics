@@ -51,5 +51,12 @@
 #then check: git log to see changes. Then check github.com for updates
 
 
+#### pulling from github.com to local 
 
-adding text here for doing a pull
+#use the edit button in on github, then make a note before commiting changes, commit directly to the main branch, and click on commit changes
+
+#from cloud 9, command: git fetch, then command: git diff main origin/main
+
+#then command: git pull --ff-only (#hint-make sure you are in the right branch-usually main)
+
+#then check git log and git status to see the changes
