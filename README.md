@@ -45,11 +45,11 @@
           
           #### Merging
 
-# make sure you are on the right branch (aka: the branch you want to merge into, usually the main branch)
+#make sure you are on the right branch (aka: the branch you want to merge into, usually the main branch)
 
 #apply command: git merge name_of_branch_you_want_to_be_merging
 
-# check ls and the file/program for the changes you made. Also check git log
+#check ls and the file/program for the changes you made. Also check git log
 
           
 
